@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 17d18c2ac76a135489b97da833846b7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_raycastSpot: {instanceID: 0}
+  - m_rocketSpot: {instanceID: 0}
+  - m_weapon: {instanceID: 0}
+  - m_rocket: {instanceID: 0}
+  - m_crosshairTexture: {instanceID: 0}
+  - m_fireSound: {fileID: 8300000, guid: 45d0a7bb5d7511140bf5e8e05e240ac5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
